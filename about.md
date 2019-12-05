@@ -1,8 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
+## About me
 
 My name is Ahmad Abdullahi Adamu, I'm security researcher from nothern part of Nigeria(arewa)...
 

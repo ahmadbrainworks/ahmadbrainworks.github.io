@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Ahmad Abdullahi Adamu, I'm security researcher from nothern part of Nigeria(arewa)...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Woah!! I don't have much to say :D
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ahmadbrainworks@gmail.com](mailto:ahmadbrainworks@gmail.com)
+Facebook: https://fb.me/ahmadbrainworks
+Twitter: [@AhmadBrainworks](https://twitter.com/ahmadbrainworks)
